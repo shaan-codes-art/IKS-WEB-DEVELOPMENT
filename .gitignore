@@ -1,0 +1,36 @@
+.env.local
+.env*.local
+
+# Dependencies
+node_modules/
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Coverage
+coverage/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Logs
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
+.vercel
+
+.env
+.env.local
+.env.*.local
+node_modules/
+.next/
+.vercel/
+.kilo/
+*.tsbuildinfo

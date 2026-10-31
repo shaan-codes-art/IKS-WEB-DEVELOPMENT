@@ -1,0 +1,19 @@
+RESEARCH PROPOSAL: EXPLAINABLE SANSKRIT NLP (X-NLP)
+Research Gap Code: Research 1
+Title: Towards Verifiable and Explainable Natural Language Processing for Sanskrit: A Paninian Rule-Attribution Framework
+Authors: College Research Initiative in Indian Knowledge Systems (IKS)
+Affiliation: Center for Computational Linguistics and Sanskrit Studies
+Academic Year: 2026-2027
+
+ABSTRACT:
+Contemporary NLP pipelines rely predominantly on black-box neural architectures (BERT, LLMs, neural taggers) that lack grammatical interpretability. In classical Sanskrit, an axiomatic generative language governed by Panini's Astadhyayi, this opacity is unacceptable. We present an Explainable Sanskrit NLP (X-NLP) framework providing 100% sutra-level derivation provenance, automated conflict resolution (vipratisedhe param karyam 1.4.2), and transparent derivation trees verifiable by pandits and computational linguists.
+
+RESEARCH QUESTIONS:
+- RQ 1.1: Computational representation of Astadhyayi derivation steps as a DAG.
+- RQ 2.1: Deterministic conflict resolution using Paribhasa metarules.
+- RQ 3.1: Human trust and error detection among Sanskrit scholars.
+
+OBJECTIVES:
+1. Sutra-Attributed Derivation Graph
+2. Algorithmic Conflict Resolution Engine
+3. Interactive Open-Access Explainability Workbench

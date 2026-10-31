@@ -1,0 +1,19 @@
+RESEARCH PROPOSAL: PANINIAN GRAMMAR FOR SANSKRIT LANGUAGE LEARNING (CALL)
+Research Gap Code: Research 2
+Title: Computational Scaffolding for Paninian Generative Grammar: An Interactive Computer-Assisted Language Learning (CALL) Paradigm
+Authors: College Research Initiative in Indian Knowledge Systems (IKS)
+Affiliation: Center for Computational Linguistics and Sanskrit Studies
+Academic Year: 2026-2027
+
+ABSTRACT:
+The Astadhyayi is an algorithmic masterpiece, but its extreme brevity and dense metalanguage present an immense cognitive barrier for novice learners. This project presents an interactive CALL environment transforming abstract generative operations into visual derivation flows, pratyahara decoders, and step-by-step morphological timelines.
+
+RESEARCH QUESTIONS:
+- RQ 1.2: Visual scaffolding of Paninian generative concepts (it-markers, pratyaharas, vikarana).
+- RQ 2.2: Empirical learning retention of interactive Prakriya playback vs static inflection tables.
+- RQ 3.2: User interface modalities optimizing student engagement in bilingual Sanskrit-English computing.
+
+OBJECTIVES:
+1. Interactive Sivasutra & Pratyahara Decompression Engine
+2. Multi-tier Prakriya Stepper with Cognitive Scaffolding
+3. Diagnostic Competency Assessment Module
